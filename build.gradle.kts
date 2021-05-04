@@ -52,7 +52,7 @@ dependencies {
 	testImplementation("org.junit.jupiter:junit-jupiter-api:5.6.1")
 	testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.6.1")
 	testImplementation("org.testfx:testfx-core:4.0.16-alpha")
-	testImplementation("org.testfx:testfx-junit5:4.0.16-alpha")
+	testImplementation("org.testfx:testfx-junit5:4.0.17-alpha-SNAPSHOT")
 	testImplementation("org.testfx:openjfx-monocle:jdk-12.0.1+2")
 	testImplementation("org.awaitility:awaitility:4.0.1")
 
